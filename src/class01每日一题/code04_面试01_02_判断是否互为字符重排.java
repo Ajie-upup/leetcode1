@@ -9,8 +9,8 @@ import java.util.Scanner;
 public class code04_面试01_02_判断是否互为字符重排 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String s1 = "abc";
-        String s2 = "bca";
+        String s1 = "abcd";
+        String s2 = "bcad";
         /*
         方法一：排序
         if (s1.length() != s2.length()) {
