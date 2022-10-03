@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c501e86-fc5f-4e9f-ba37-19a3069aa892" name="Changes" comment="10.1每日一题">
-      <change afterPath="$PROJECT_DIR$/src/class01每日一题/code09_在LR中交换相邻字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02面试合集/code04_颜色分类.java" afterDir="false" />
+    <list default="true" id="1c501e86-fc5f-4e9f-ba37-19a3069aa892" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/class01每日一题/code10_检查二进制字符串字段.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class01每日一题/code11_使括号有效的最少添加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class03竞赛板块/code01_机器人大冒险.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -70,33 +71,7 @@
       <recent name="E:\1Study\leetcode1\src\class01每日一题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code09_在LR中交换相邻字符">
-    <configuration name="code03_寻找两个正序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02面试合集.code03_寻找两个正序数组的中位数" />
-      <module name="leetcode1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class02面试合集.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code04_面试01_02_判断是否互为字符重排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01每日一题.code04_面试01_02_判断是否互为字符重排" />
-      <module name="leetcode1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.code11_使括号有效的最少添加">
     <configuration name="code07_零矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01每日一题.code07_零矩阵" />
       <module name="leetcode1" />
@@ -136,13 +111,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="code10_检查二进制字符串字段" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01每日一题.code10_检查二进制字符串字段" />
+      <module name="leetcode1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code11_使括号有效的最少添加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01每日一题.code11_使括号有效的最少添加" />
+      <module name="leetcode1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code11_使括号有效的最少添加" />
+        <item itemvalue="Application.code10_检查二进制字符串字段" />
         <item itemvalue="Application.code09_在LR中交换相邻字符" />
         <item itemvalue="Application.code08_重新格式化电话号码" />
         <item itemvalue="Application.code07_零矩阵" />
-        <item itemvalue="Application.code03_寻找两个正序数组的中位数" />
-        <item itemvalue="Application.code04_面试01_02_判断是否互为字符重排" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +164,11 @@
       <workItem from="1664527732651" duration="1943000" />
       <workItem from="1664611541588" duration="4382000" />
       <workItem from="1664636126872" duration="109000" />
-      <workItem from="1664675164933" duration="2346000" />
+      <workItem from="1664675164933" duration="2379000" />
+      <workItem from="1664756252427" duration="2448000" />
+      <workItem from="1664784809063" duration="348000" />
+      <workItem from="1664837603559" duration="17000" />
+      <workItem from="1664837654093" duration="2227000" />
     </task>
     <task id="LOCAL-00001" summary="9.29每日一题">
       <created>1664425383917</created>
@@ -186,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664621974461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="10.2每日一题">
+      <created>1664677537029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664677537029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +208,7 @@
     <MESSAGE value="9.29每日一题" />
     <MESSAGE value="9.30每日一题" />
     <MESSAGE value="10.1每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.1每日一题" />
+    <MESSAGE value="10.2每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.2每日一题" />
   </component>
 </project>
