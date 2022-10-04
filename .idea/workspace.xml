@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c501e86-fc5f-4e9f-ba37-19a3069aa892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class01每日一题/code10_检查二进制字符串字段.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class01每日一题/code11_使括号有效的最少添加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class03竞赛板块/code01_机器人大冒险.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02面试合集/code05_判定字符是否唯一.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02面试合集/code06_URL化.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -49,35 +48,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/1Study/leetcode1/src/class02面试合集&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;yiiguxing.plugin.translate&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "SELECTIVE",
+    "last_opened_file_path": "E:/1Study/leetcode1/src/class02面试合集",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\1Study\leetcode1\src\class02面试合集" />
       <recent name="E:\1Study\leetcode1\src\class01每日一题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code11_使括号有效的最少添加">
-    <configuration name="code07_零矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01每日一题.code07_零矩阵" />
+  <component name="RunManager" selected="Application.code06_URL化">
+    <configuration name="code05_判定字符是否唯一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02面试合集.code05_判定字符是否唯一" />
       <module name="leetcode1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01每日一题.*" />
+          <option name="PATTERN" value="class02面试合集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code08_重新格式化电话号码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01每日一题.code08_重新格式化电话号码" />
+    <configuration name="code06_URL化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02面试合集.code06_URL化" />
       <module name="leetcode1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01每日一题.*" />
+          <option name="PATTERN" value="class02面试合集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code06_URL化" />
+        <item itemvalue="Application.code05_判定字符是否唯一" />
         <item itemvalue="Application.code11_使括号有效的最少添加" />
         <item itemvalue="Application.code10_检查二进制字符串字段" />
         <item itemvalue="Application.code09_在LR中交换相邻字符" />
-        <item itemvalue="Application.code08_重新格式化电话号码" />
-        <item itemvalue="Application.code07_零矩阵" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,10 @@
       <workItem from="1664756252427" duration="2448000" />
       <workItem from="1664784809063" duration="348000" />
       <workItem from="1664837603559" duration="17000" />
-      <workItem from="1664837654093" duration="2227000" />
+      <workItem from="1664837654093" duration="2264000" />
+      <workItem from="1664848154079" duration="730000" />
+      <workItem from="1664866435363" duration="6000" />
+      <workItem from="1664876294183" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="9.29每日一题">
       <created>1664425383917</created>
@@ -198,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664677537029</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="10.3，4每日一题">
+      <created>1664839915255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664839915255</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +218,7 @@
     <MESSAGE value="9.30每日一题" />
     <MESSAGE value="10.1每日一题" />
     <MESSAGE value="10.2每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.2每日一题" />
+    <MESSAGE value="10.3，4每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.3，4每日一题" />
   </component>
 </project>
