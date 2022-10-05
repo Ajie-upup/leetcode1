@@ -3,8 +3,7 @@ package class01每日一题;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
-import java.util.Map.Entry;
+import java.util.Map;
 
 /**
  * @author:hyj
@@ -29,13 +28,11 @@ public class code12_子域名访问计数 {
                 }
             }
         }
-        List<Entry<String, Integer>> lists = new ArrayList<>(map.entrySet());
         List<String> list = new ArrayList<>();
-        for (Entry<String, Integer> entry : lists) {
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
             list.add(entry.getValue() + " " + entry.getKey());
         }
         System.out.println(list);
-
     }
 
     public static String code(String[] splits, int num) {

@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c501e86-fc5f-4e9f-ba37-19a3069aa892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class01每日一题/code12_子域名访问计数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02面试合集/code07_回文排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02面试合集/code08_一次编辑.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01每日一题/code12_子域名访问计数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01每日一题/code12_子域名访问计数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,7 @@
       <recent name="E:\1Study\leetcode1\src\class01每日一题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code12_子域名访问计数">
+  <component name="RunManager" selected="Application.code08_一次编辑">
     <configuration name="code05_判定字符是否唯一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class02面试合集.code05_判定字符是否唯一" />
       <module name="leetcode1" />
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code10_检查二进制字符串字段" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01每日一题.code10_检查二进制字符串字段" />
+    <configuration name="code07_回文排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02面试合集.code07_回文排列" />
       <module name="leetcode1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01每日一题.*" />
+          <option name="PATTERN" value="class02面试合集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code11_使括号有效的最少添加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01每日一题.code11_使括号有效的最少添加" />
+    <configuration name="code08_一次编辑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02面试合集.code08_一次编辑" />
       <module name="leetcode1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01每日一题.*" />
+          <option name="PATTERN" value="class02面试合集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code08_一次编辑" />
+        <item itemvalue="Application.code07_回文排列" />
         <item itemvalue="Application.code12_子域名访问计数" />
         <item itemvalue="Application.code06_URL化" />
         <item itemvalue="Application.code05_判定字符是否唯一" />
-        <item itemvalue="Application.code11_使括号有效的最少添加" />
-        <item itemvalue="Application.code10_检查二进制字符串字段" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +175,9 @@
       <workItem from="1664893404944" duration="146000" />
       <workItem from="1664931996772" duration="2441000" />
       <workItem from="1664940234062" duration="864000" />
-      <workItem from="1664963814106" duration="384000" />
+      <workItem from="1664963814106" duration="1438000" />
+      <workItem from="1664979123506" duration="37000" />
+      <workItem from="1664979877448" duration="3516000" />
     </task>
     <task id="LOCAL-00001" summary="9.29每日一题">
       <created>1664425383917</created>
@@ -216,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664877481913</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="10.5每日一题 -- 子域名访问计数">
+      <created>1664964225837</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664964225837</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +241,7 @@
     <MESSAGE value="10.2每日一题" />
     <MESSAGE value="10.3，4每日一题" />
     <MESSAGE value="10.4每日一题 -- 面试经典" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.4每日一题 -- 面试经典" />
+    <MESSAGE value="10.5每日一题 -- 子域名访问计数" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.5每日一题 -- 子域名访问计数" />
   </component>
 </project>
