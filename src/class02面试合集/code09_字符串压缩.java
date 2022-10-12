@@ -32,7 +32,7 @@ public class code09_字符串压缩 {
     }
      */
     public static void main(String[] args) {
-        String s = " ";
+        String s = "aaabbbcccddd";
 //        字符串为空的判断
         if (s.length() == 0) {
             System.exit(0);
@@ -40,9 +40,19 @@ public class code09_字符串压缩 {
         int count = 1;
         char a = s.charAt(0);
         StringBuffer sbf = new StringBuffer();
-
-
-
+        for (int i = 1; i < s.length(); ++i) {
+            if (a == s.charAt(i)) {
+                count++;
+            } else {
+                sbf.append(a);
+                sbf.append(count);
+                a = s.charAt(i);
+                count = 1;
+            }
+        }
+        sbf.append(a);
+        sbf.append(count);
+        System.out.println(sbf.length() >= s.length() ? s : sbf.toString());
     }
 
 

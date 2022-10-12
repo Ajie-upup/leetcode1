@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c501e86-fc5f-4e9f-ba37-19a3069aa892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class01每日一题/code13_优势洗牌.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class02面试合集/code09_字符串压缩.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +177,7 @@
       <workItem from="1665130505777" duration="5000" />
       <workItem from="1665185386637" duration="755000" />
       <workItem from="1665229933066" duration="102000" />
-      <workItem from="1665368987646" duration="1713000" />
+      <workItem from="1665368987646" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="9.29每日一题">
       <created>1664425383917</created>
@@ -239,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664983577552</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="10.10每日一题 -- 面试">
+      <created>1665371391407</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665371391407</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +257,7 @@
     <MESSAGE value="10.4每日一题 -- 面试经典" />
     <MESSAGE value="10.5每日一题 -- 子域名访问计数" />
     <MESSAGE value="10.5每日一题 -- 面试" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.5每日一题 -- 面试" />
+    <MESSAGE value="10.10每日一题 -- 面试" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.10每日一题 -- 面试" />
   </component>
 </project>
