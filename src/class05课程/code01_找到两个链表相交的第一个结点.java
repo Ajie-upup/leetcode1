@@ -176,5 +176,4 @@ public class code01_找到两个链表相交的第一个结点 {
         System.out.println(getFirstInsertIn(head1, head2).value);
 
     }
-
 }
