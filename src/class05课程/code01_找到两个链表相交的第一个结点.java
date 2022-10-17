@@ -5,6 +5,7 @@ package class05课程;
  * @date:2022/10/14
  */
 public class code01_找到两个链表相交的第一个结点 {
+
     public static class Node {
         public int value;
         public Node next;
